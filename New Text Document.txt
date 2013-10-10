@@ -1,2 +1,4 @@
 Some text...
 
+New line in the doc <ksingamp>
+
